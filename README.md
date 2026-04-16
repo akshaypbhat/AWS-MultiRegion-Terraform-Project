@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ## 📌 Project Overview
-This repository contains a production-grade, highly available global network architecture deployed across multiple AWS regions (**ap-south-1** and **us-east-1**). The project demonstrates advanced **Infrastructure as Code (IaC)** principles, focusing on modularity, security, and cross-region connectivity.
+This repository contains a production-grade, highly available global network architecture deployed across multiple AWS regions (**us-east-1** and **us-east-2**). The project demonstrates advanced **Infrastructure as Code (IaC)** principles, focusing on modularity, security, and cross-region connectivity.
 
 ## 🏗 Architecture Features
 * **Hub-and-Spoke Networking:** Centralized traffic management using **AWS Transit Gateway (TGW)**.
